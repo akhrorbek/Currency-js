@@ -1,0 +1,23 @@
+@font-face {
+    font-family:"Lobster";
+    src: url("../fonts/Lobster-Regular.ttf"),
+         url("../fonts/Lobster-Regular.woff"),
+         url("../fonts/Lobster-Regular.woff2");
+}
+body {
+    background-image: url("../images/karzinka1.webp");
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: "Lobster";
+}
+
+.container {
+    padding-top: 150px;
+}
+.heading {
+    color: rgba(0, 24, 238, 0.973);
+}
+
+.header {
+    color: rgba(0, 24, 238, 0.973);
+}
